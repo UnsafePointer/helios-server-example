@@ -1,7 +1,7 @@
 ducking-wookie
 ==============
 
-This is an Helios backend app example. It's published here: myhelios.herokuapp.com/admin. The code for the iOS client app can be found here: https://github.com/Ruenzuo/furry-archer.
+This is an Helios backend app example. It's published here: myhelios.herokuapp.com/admin. The code for the iOS client app can be found here: https://github.com/Ruenzuo/furry-ninja.
 
 ![ios-helios](https://dl.dropboxusercontent.com/u/99114459/ios-helios.png)
 
