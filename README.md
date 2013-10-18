@@ -1,5 +1,5 @@
-fuzzy-nemesis
-=============
+ducking-wookie
+==============
 
 This is an Helios backend app example. It's published here: myhelios.herokuapp.com/admin. The code for the iOS client app can be found here: https://github.com/Ruenzuo/furry-archer.
 
