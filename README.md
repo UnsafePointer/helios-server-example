@@ -13,6 +13,12 @@ In order to build the application, clone this repo:
 $ git clone git@github.com:Ruenzuo/ducking-wookie.git
 ```
 
+Then install the dependencies:
+
+```sh
+$ bundle install
+```
+
 If you haven't already, install Helios. You can find more about its requirements on their webpage.
 
 ```sh
