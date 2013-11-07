@@ -33,6 +33,8 @@ $ helios server
 
 ![ios-helios](https://dl.dropboxusercontent.com/u/99114459/ios-helios.png)
 
+You can see it live here: http://myhelios.herokuapp.com/admin/  
+
 For more information on how to get started with Helios, go to https://github.com/helios-framework/helios.
 
 License
