@@ -1,16 +1,16 @@
-ducking-wookie
-==============
+Helios Server Application Example
+=================================
 
 __Description:__
 
-This is an Helios backend app example. It's published here: myhelios.herokuapp.com/admin. The code for the iOS client app can be found here: https://github.com/Ruenzuo/furry-ninja.
+This is an Helios server app example. It's published here: myhelios.herokuapp.com/admin. The code for the iOS client app can be found here: https://github.com/Ruenzuo/helios-client-example.
 
 __Building:__
 
 In order to build the application, clone this repo:
 
 ```sh
-$ git clone git@github.com:Ruenzuo/ducking-wookie.git
+$ git clone git@github.com:Ruenzuo/helios-server-example.git
 ```
 
 Then install the dependencies:
