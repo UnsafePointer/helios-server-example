@@ -10,7 +10,7 @@ __Building:__
 In order to build the application, clone this repo:
 
 ```sh
-$ git clone git@github.com:Ruenzuo/helios-server-example.git
+$ git clone git@github.com:Ruenzuo/helios-server-example.git && cd helios-server-example 
 ```
 
 Then install the dependencies:
