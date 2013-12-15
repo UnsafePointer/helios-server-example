@@ -31,7 +31,7 @@ Then start the server:
 $ helios server
 ```
 
-![ios-helios](https://dl.dropboxusercontent.com/u/99114459/ios-helios.png)
+![ios-helios](https://dl.dropboxusercontent.com/u/12352209/GitHub/ios-helios.png)
 
 You can see it live here: http://myhelios.herokuapp.com/admin/  
 
